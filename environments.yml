@@ -1,4 +1,4 @@
-name: hydrpncsFrmPyqtRasp
+name: hydrpncsFrmPyqtRsp
 channels:
   - conda-forge
 dependencies:

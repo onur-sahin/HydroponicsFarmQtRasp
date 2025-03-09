@@ -1,0 +1,10 @@
+{
+
+    "qt-qml.qmlls.customExePath": "/home/adam/Qt/6.8.2/gcc_64/bin/qmlls",
+    // "python.autoComplete.extraPaths": [
+    //     "./models", "views", "assets", "controllers", "resources"
+    // ],
+    "python.analysis.extraPaths": [
+        "${env:PYTHONPATH}"
+    ]
+}
